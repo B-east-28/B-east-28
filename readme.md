@@ -16,7 +16,7 @@ A collection of my Java coding practice, problem-solving exercises, and learning
 <br><br>⚡ Fun fact<br>Learning, building, breaking, fixing, and improving — one line of code at a time. <br>✦ Still learning. Still building. Still becoming.
 
 
- 🌐 Socials: <br>
+ 🌐 Socials: <br><br>
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@The-Deko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thedeko26@gmail.com) 
 
  💻 Tech Stack:
