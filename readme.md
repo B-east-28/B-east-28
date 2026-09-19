@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👋 Hey, I’m Sonu<br><br>Building. Learning. Improving.<br><br>🔭 Currently working on<br>Strengthening my Java & DSA skills and building projects with HTML & CSS.<br><br>🌱 Looking to collaborate on<br>Beginner-friendly Java, DSA & Web Development projects.<br><br>👯 Looking for help with<br>Writing cleaner code, improving problem-solving, and learning from experienced developers.<br><br>⚡ Currently learning<br>Java • Data Structures & Algorithms • Frontend Development<br><br>💬 Ask me about<br>Java • DSA • HTML/CSS • My Projects<br><br> 🚀 Featured Projects
+<br>👋 Hey, I’m Sonu<br><br>Building. Learning. Improving.<br><br>🔭 Currently working on<br>Strengthening my Java & DSA skills and building projects with HTML & CSS.<br><br>🌱 Looking to collaborate on<br>Beginner-friendly Java, DSA & Web Development projects.<br><br>👯 Looking for help with<br>Writing cleaner code, improving problem-solving, and learning from experienced developers.<br><br>⚡ Currently learning<br>Java • Data Structures & Algorithms • Frontend Development<br><br>💬 Ask me about<br>Java • DSA • HTML/CSS • My Projects<br><br> 🚀 Featured Projects
 
  🛍️ Myntra Frontend Clone
 
