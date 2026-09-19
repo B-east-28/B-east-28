@@ -20,8 +20,11 @@ A collection of my Java coding practice, problem-solving exercises, and learning
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@The-Deko) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thedeko26@gmail.com) 
 
  💻 Tech Stack:
+ 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
  📊 GitHub Stats:
+ 
 ![](https://github-readme-stats.shion.dev/api?username=B-east-28&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=B-east-28&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=B-east-28&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
